@@ -1,0 +1,17 @@
+body {
+    background-color: #7bed9f;
+}
+
+h1 {
+    color:#2f3542;
+    transition: color 0.5s ease-in-out;
+}
+
+.form,
+.greetings {
+    display: none;
+}
+
+.showing {
+    display: block;
+}
